@@ -7,7 +7,6 @@
     grid-area: title;
 }
 
-<<<<<<< HEAD
 @media screen and (max-width: 1023px) {
     .place__title {
         font-size: 42px;
@@ -15,8 +14,6 @@
     }
 }
 
-=======
->>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
 @media screen and (max-width: 767px) {
     .place__title {
         margin: 0vw 5vw 0vw 5vw;
@@ -24,13 +21,4 @@
         line-height: 35px;
     }
 }
-<<<<<<< HEAD
-=======
 
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-    .place__title {
-        font-size: 42px;
-        line-height: 46px;
-    }
-}
->>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
