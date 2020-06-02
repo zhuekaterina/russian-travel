@@ -3,13 +3,19 @@
     line-height: 28px;
     color: #FFFFFF;
     text-decoration: none;
-}
-
-.header__lang-link:nth-child(2) {
     margin-left: 18px;
 }
+
 .header__lang-link:first-child {
+    margin-left: 0px;
+}
+.header__lang-link:active {
     text-decoration: underline;
+}
+
+.header__lang-link:hover {
+    opacity: 0.6;
+    transition: opacity 0.5s linear;
 }
 
 @media screen and (max-width: 767px) {

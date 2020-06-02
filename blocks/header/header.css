@@ -6,4 +6,5 @@
     padding: 4vh 3vw 0vh 3vw;
     display: flex;
     justify-content: space-between;
+    overflow: hidden;
 }
