@@ -1,9 +1,6 @@
 @import url(./__links/footer__links.css);
-<<<<<<< HEAD
 @import url(./__links-list/footer__links-list.css);
 @import url(./__list-tem/footer__list-item.css);
-=======
->>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
 @import url(./__link/footer__link.css);
 @import url(./__copyright/footer__copyright.css);
 
@@ -11,10 +8,7 @@
     padding: 0px 3.5vw 24px 3.5vw;
     display: flex;
     justify-content: space-between;
-<<<<<<< HEAD
     overflow: hidden;
-=======
->>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
 }
 
 @media screen and (max-width: 767px) {
