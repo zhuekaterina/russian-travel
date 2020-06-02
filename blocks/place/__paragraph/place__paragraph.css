@@ -20,6 +20,7 @@
     .place__paragraph {
         margin: 0vw 5vw 0vw 5vw;
     }
+}
     
 @media screen and (max-width: 767px) {
     .place__paragraph:nth-child(2) {
