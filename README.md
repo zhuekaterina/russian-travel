@@ -8,8 +8,4 @@
 HTML, CSS, grid-layout, flexbox, адаптивная и "резиновая" верстки.
 
 ### Ссылка на проект: 
-<<<<<<< HEAD
-https://github.com/zhuekaterina/russian-travel/index.html
-=======
 https://zhuekaterina.github.io/russian-travel/
->>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
