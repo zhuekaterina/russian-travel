@@ -28,14 +28,14 @@
 
 @media screen and (min-width: 0px) {
     .cover__container {
-        max-width: 100%;
+        max-width: 100vw;
         min-height: 200px;
     }
 }
 
 @media screen and (min-width: 375px) {
     .cover__container {
-        max-width: 100%;
+        max-width: 100vw;
         min-height: 280px;
     }
 }
