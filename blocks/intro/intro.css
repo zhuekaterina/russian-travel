@@ -2,6 +2,7 @@
 @import url(./__text/intro__text.css);
 @import url(./__list/intro__list.css);
 @import url(./__list-item/intro__list-item.css);
+<<<<<<< HEAD
 @import url(./__list-number/intro__list-number.css);
 
 .intro {
@@ -31,5 +32,32 @@
         padding: 7vh 0vh 8vh 0vh;
         width: 90%;
         margin: 0px auto;
+=======
+
+.intro {
+    padding: 20vh 0vh 20vh 0vh;
+    width: 50%;
+    margin-left: 10%;
+}
+
+@media screen and (max-width: 767px) {
+    .intro {
+        padding: 7vh 0vh 8vh 0vh;
+        width: 90%;
+        margin: 0px auto;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .intro {
+        width: 90%;
+        margin: 0px auto;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .intro {
+        width: 67%;
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
     }
 }

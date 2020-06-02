@@ -3,8 +3,16 @@
     line-height: 18px;
     color: #FFFFFF;
     text-decoration: none;
+<<<<<<< HEAD
 }
 
+=======
+    margin-left: 18px;
+}
+.footer__link:first-of-type {
+    margin: 0px;
+}
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
 .footer__link:hover {
     opacity: 0.6;
     transition: opacity 0.5s linear;
@@ -12,8 +20,12 @@
 
 @media screen and (max-width: 767px) {
     .footer__link {
+<<<<<<< HEAD
         margin: 0px;
         font-size: 24px;
         line-height: 24px;
+=======
+        margin: 32px 0px 0px 0px;
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
     }
 }

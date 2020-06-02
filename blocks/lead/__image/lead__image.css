@@ -1,4 +1,5 @@
 .lead__image {
+<<<<<<< HEAD
     max-width: 1024px;
 }
 
@@ -35,5 +36,19 @@
 @media screen and (max-width: 928px) {
     .lead__image {
         width: 100%;
+=======
+    width: 80%;
+}
+
+@media screen and (max-width: 1023px) {
+    .lead__image {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:1024px) and (max-width: 1279px) {
+    .lead__image {
+        width: 93%;
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
     }
 }

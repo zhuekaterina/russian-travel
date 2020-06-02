@@ -1,4 +1,9 @@
 .page {
     background-color: #2A2C2F;
+<<<<<<< HEAD
     font-family: 'Inter', Arial, sans-serif;
+=======
+    font-family: 'Inter';
+    overflow: hidden;
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
 }

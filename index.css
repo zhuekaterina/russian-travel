@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 @import url(./vendor/styles/normalize.css);
+=======
+@import url(./vendor/normalize.css);
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
 @import url(./vendor/fonts/fonts.css);
 @import url(./blocks/page/page.css);
 @import url(./blocks/header/header.css);

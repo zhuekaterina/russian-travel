@@ -1,5 +1,6 @@
 .places {
     padding: 0px 12% 92px 12%;
+<<<<<<< HEAD
     overflow: hidden;
 }
 
@@ -10,13 +11,30 @@
 }
 
 @media screen and (max-width: 1023px) {
-    .places {
-        padding: 0px 3% 88px 3%;
-    }
+=======
 }
 
 @media screen and (max-width: 767px) {
     .places {
         padding: 0px 0px 64px 0px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
+    .places {
+        padding: 0px 3% 88px 3%;
+    }
+}
+
+<<<<<<< HEAD
+@media screen and (max-width: 767px) {
+    .places {
+        padding: 0px 0px 64px 0px;
+=======
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .places {
+        padding: 0px 5% 88px 5%;
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
     }
 }

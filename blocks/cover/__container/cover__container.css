@@ -2,14 +2,20 @@
     position: relative;
     background-image: url(../../../images/cover-trains.jpg);
     background-size: cover;
+<<<<<<< HEAD
     max-width: 1184px;
+=======
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
     min-height: 740px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+<<<<<<< HEAD
     text-decoration: none;
     margin: 0px auto;
+=======
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
 }
 .cover__container::before {
     content: "";
@@ -26,6 +32,7 @@
     transition: opacity 1s linear;
 }
 
+<<<<<<< HEAD
 @media screen and (min-width: 1500px) {
     .cover__container {
         max-width: 1320px;
@@ -72,42 +79,70 @@
 @media screen and (max-width: 1279px) {
     .cover__container {
         max-width: 1024px;
+=======
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .cover__container {
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
         min-height: 640px;
     }
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 1023px) {
     .cover__container {
         width: 100%;
+=======
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .cover__container {
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
         min-height: 480px;
     }
 }
 
 
+<<<<<<< HEAD
 @media screen and (max-width: 767px) {
     .cover__container {
         width: 100%;
+=======
+@media screen and (min-width: 611px) and (max-width: 767px) {
+    .cover__container {
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
         min-height: 420px;
     }
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 610px) {
     .cover__container {
         width: 100%;
+=======
+@media screen and (min-width: 501px) and (max-width: 610px) {
+    .cover__container {
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
         min-height: 340px;
     }
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 500px) {
     .cover__container {
         width: 100%;
+=======
+@media screen and (min-width: 370px) and (max-width: 500px) {
+    .cover__container {
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
         min-height: 280px;
     }
 }
 
 @media screen and (max-width: 369px) {
     .cover__container {
+<<<<<<< HEAD
         width: 100%;
+=======
+>>>>>>> b9de9619516f8703e314da4ef180eb1867c32852
         min-height: 200px;
     }
 }
