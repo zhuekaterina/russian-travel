@@ -1,12 +1,12 @@
 .places {
     padding: 0px 0px 92px 0px;
     max-width: 960px;
-    overflow: hidden;
+    margin: auto;
 }
 
 @media screen and (max-width: 1279px) {
     .places {
-        padding: 0px 5% 88px 5%;
+        padding-bottom: 88px;
     }
 }
 
@@ -22,8 +22,3 @@
     }
 }
 
-@media screen and (min-width: 1280px) {
-    .places {
-        margin: auto;
-    }
-}

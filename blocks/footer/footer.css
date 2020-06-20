@@ -10,7 +10,6 @@
     margin: auto;
     display: flex;
     justify-content: space-between;
-    overflow: hidden;
 }
 
 @media screen and (max-width: 767px) {
@@ -20,7 +19,7 @@
     }
 }
 
-@media screen and (min-width: 1281px) {
+@media screen and (min-width: 1280px) {
     .footer {
         padding: 0px 0vw 24px 0vw;
     }
